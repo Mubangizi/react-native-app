@@ -1,4 +1,4 @@
-package com.reactnativeappstarter;
+package starterapp.expo;
 
 import android.os.Build;
 import android.os.Bundle;

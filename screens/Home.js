@@ -7,6 +7,7 @@ const Home = () => {
     <SafeAreaView style={{ flex: 1 }}>
       <FocusedStatusBar background={COLORS.primary} />
       <View style={{ flex: 1 }}>
+        <Text>Yooo this is great</Text>
         <View style={{ zIndex: 0 }}>
           <FlatList
             data={NFTData}

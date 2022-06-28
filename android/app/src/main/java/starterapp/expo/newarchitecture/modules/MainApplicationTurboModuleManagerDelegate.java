@@ -1,4 +1,4 @@
-package com.reactnativeappstarter.newarchitecture.modules;
+package starterapp.expo.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
